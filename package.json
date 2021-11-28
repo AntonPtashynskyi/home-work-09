@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "npx parcel src/index.html",
-    "build": "npx parcel build src/index.html"
+    "build": "npx parcel build src/index.html --public-url home-work-09"
   },
   "author": "Anton <YOUR_EMAILH>",
   "license": "ISC",
